@@ -1,0 +1,33 @@
+.tb{display: flex;
+   justify-content: between;
+    width: 75%; 
+    margin-left: 162px;
+    align-items: center; 
+    border-radius: 30px;
+    background: #fffb02;
+    font-size: 35px;
+    margin-block: 10%;
+    border: none; 
+    padding: 5%;
+    transition: 500ms cubic-bezier(0.175, 0.885, 0.32, 1.1);
+}
+.list-group{
+    background: #00be10;
+    border:#000000;
+    border-radius: 50%;
+    border: 5px solid #000000
+}
+.btn1{
+    background: #00be10;
+    border: 2px solid #000000;
+    margin-left: 45%;
+    margin-top: 50px;
+    font-size: 140%;
+    position: relative;
+    flex-shrink: 0;
+    width: 32px;
+    height: 40px;
+    border: none;
+    outline: none;
+    transition: 500ms cubic-bezier(0.175, 0.885, 0.32, 1.1);
+}
